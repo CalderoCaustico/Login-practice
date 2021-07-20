@@ -1,0 +1,50 @@
+/*Tipografia*/
+
+h1, h2 {
+  font-family: Lato;
+  color: blue ;
+}
+
+p{
+  font-family: lato;
+  color:  black;
+  font-size: 16px;
+  margin: 8px;
+}
+
+label{
+  font-family: lato;
+  color:  black;
+  font-size: 12px;
+  text-transform: uppercase;
+  margin-bottom: 6px;
+  display: inline-block;
+}
+
+form {
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+
+/* Botones*/
+
+.button{
+    background-color:  blue ;
+    border-radius: 4px;
+    color: #fff;
+    padding: 10px 20px;
+    margin-top: 16px;
+  }
+
+  .checkbox{
+    margin-top: 10px;
+    display: inline-block;
+  }
+
+  /* cuerpasso*/
+
+  body{
+    background-color: yellow;
+  }
+
+  
